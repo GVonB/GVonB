@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gunnar
-- 👀 I’m interested in computers science, software development, video editing, foreign language, and UX design.
+- 👀 I’m interested in computer science, software development, video editing, foreign language, and UX design.
 - 🌱 Python SQL Java
 - 💞️ I enjoy playing video games in my free time.
 - 📫 Flyte#4302 on Discord.
