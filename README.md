@@ -1,6 +1,6 @@
 - Hi, I’m Gunnar
 - I’m interested in computer science, software development, video editing, foreign language, and UX design. 
-- I enjoy playing video games in my free time.
+- I enjoy playing video games, studying Japanese, and working on coding projects in my free time.
 - @.flyte on Discord is the fastest way to reach me.
 
 <!---
