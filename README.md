@@ -5,7 +5,7 @@
 <br><br>
 🎞️ Through my video editing hobby, I've created projects with hundreds of thousands of views. I'm currently focusing on learning to take advantage of <b>Blender</b> to create complex, dynamic 3d environments to enhance my storytelling capabilities.
 <br><br>
-✈️ I enjoy traveling and experiencing new cultures (especially food). I'm always pursuing knowledge of foreign languages and strive to develop fluency despite not having any foreign-language knowledge pre-high school.
+✈️ I enjoy traveling and experiencing new cultures (especially food). I'm always pursuing knowledge of foreign languages to enhance this cultural immersion.
 
 <!---
 GVonB/GVonB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
