@@ -3,7 +3,7 @@
 <br><br>
 📖 I love learning and exploring the evolving landscape of technology. I actively seek to expand my skill set to become a more well-rounded contributor to <b>open-source software</b>.
 <br><br>
-🎞️ Through my video editing hobby, I've created projects with hundreds of thousands of views. I'm currently focusing on learning to take advantage of <b>Blender</b> to create complex, dynamic 3d environments to enhance my storytelling capabilities.
+🎞️ Through my video editing hobby, I've created projects with hundreds of thousands of views. I'm currently focusing on motion graphic and video editing work to create appealing brand elements and dynamic visuals.
 <br><br>
 ✈️ I enjoy traveling and experiencing new cultures. I'm always pursuing knowledge of foreign languages to enhance this cultural immersion.
 
