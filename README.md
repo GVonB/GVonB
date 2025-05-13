@@ -1,4 +1,4 @@
-# 👋 Hi - I'm Gunnar Von Bergen!
+# 👋 Hi, I'm Gunnar Von Bergen!
 
 I’m a **software developer** and lifelong learner focused on building clean, user-friendly tools. My current work blends front-end design, back-end logic, and real-world data — with a special interest in performance, usability, and impact.
 
