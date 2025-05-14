@@ -25,7 +25,7 @@ I’m a **software developer** and lifelong learner focused on building clean, u
 ---
 
 ### 🌱 About Me
-- 🎿 Grew uin Bozeman, Montana — experienced skier with a passion for the outdoors
+- 🎿 Grew up in Bozeman, Montana — experienced skier with a passion for the outdoors
 - 🎞️ Skilled in video editing and motion graphics, with experience in branding and storytelling  
 - 🧭 Enjoy exploring new cultures through travel and language learning 
 - 🎮 Interested in interactive media, design, and open-source enthusiast  
