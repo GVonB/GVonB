@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gunnar Von Bergen!
 
-I’m a **software developer** and lifelong learner focused on building clean, user-friendly tools. My current work blends front-end design, back-end logic, and real-world data — with a special interest in performance, usability, and impact.
+I’m a software developer focusing on building useful tools and applications for myself and others. My current work combines clean and simplistic UI/UX with powerful capabilities. I'm always looking to learn and improve my skills, both in and out of tech. 
 
 ---
 
@@ -17,10 +17,10 @@ I’m a **software developer** and lifelong learner focused on building clean, u
 
 ### 💻 Technical Interests
 - Full-stack development (React, Node.js, SQL)
-- Clean, functional UI/UX
+- Clean, functional UI/UX (Bootstrap & Tailwind)
 - Data processing & analysis (Python, Pandas, Jupyter)
 - Motion graphics & video editing (After Effects, Premiere Pro)
-- DevOps experimentation (Docker, Railway, AWS EC2)
+- Cloud/Infra (Docker, AWS, DevOps)
 
 ---
 
@@ -33,7 +33,7 @@ I’m a **software developer** and lifelong learner focused on building clean, u
 ---
 
 ### 🔧 Currently Working On
-- Extending **Slope Search** with performance improvements, user authentication, and new metrics
+- Extending **Slope Search** with performance improvements, user authentication, and new features
 - Improving my React/TypeScript fluency  
 - Designing small creative tools for web and desktop
 
