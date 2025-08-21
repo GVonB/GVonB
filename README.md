@@ -42,6 +42,7 @@ I’m a software developer focusing on building useful tools and applications fo
 ### 📫 Let’s Connect
 You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/GVonB)
+- [GVonB.dev](https://www.gvonb.dev/)
 
 Thanks for stopping by!
 <!---
