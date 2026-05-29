@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gunnar Von Bergen!
 
-I’m a software developer focusing on building useful tools and applications for myself and others. My current work combines clean and simplistic UI/UX with powerful capabilities. I'm always looking to learn and improve my skills, both in and out of tech. 
+I’m currently a researche intern at Cleveland Clinic working with the IBM Discovery Accelerator in the Computational Life Sciences lab. My published research is in the field of Generative AI, but I am always looking to expand the breadth my technical knowledge.
 
 ---
 
