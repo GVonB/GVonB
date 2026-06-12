@@ -4,6 +4,15 @@ I’m currently a quantum computing research intern at Cleveland Clinic working 
 
 ---
 
+### 📝 Most Recently Published Paper: [Med-CoT: Towards Proactive Clinical Agentic LLM](https://doi.org/10.1109/BigData66926.2025.11401506)
+This paper, published to IEEE BigData 2025 conference in Macau, relates to the following questions:
+ - How can we implement and improve LLM usage as a proactive assistant in the clinical space?
+ - How do we handle data retrieval, emphasizing efficiency and natural conversation flow?
+ - When should an agent interject and under what conditions?
+ - How can we evaluate performance in a situation where the ground-truth is unknown?
+
+---
+
 ### 🏔️ Featured Project: [Slope Search](https://slope-search.gvonb.dev)
 **Ski resort and run explorer** built with a custom MySQL database and full-stack filtering UI.
 
