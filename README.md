@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gunnar
 
-I’m currently a quantum computing research intern at Cleveland Clinic working with the IBM Discovery Accelerator in the Computational Life Sciences lab. My published research is in the field of Generative AI, but I am always looking to expand the breadth my technical knowledge.
+I’m currently a research intern at Cleveland Clinic working with the IBM Discovery Accelerator in the Computational Life Sciences lab. My published research is in the field of Generative AI, but I am always looking to expand the breadth my technical knowledge.
 
 ---
 
